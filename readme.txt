@@ -11,7 +11,3 @@ fdsflsjdf sd
 
 
 este texto esta modificado
-
-
-archivo modificado por angela
-
